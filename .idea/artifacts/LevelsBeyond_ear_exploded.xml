@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="LevelsBeyond:ear exploded">
+    <output-path>$PROJECT_DIR$/../LevelsBeyond/out/artifacts/LevelsBeyond_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="LevelsBeyond/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
